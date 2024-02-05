@@ -1,7 +1,7 @@
 # Cards Application 
 A web application that allows users to create and manage tasks in the form of cards
 
-## Architecture, technologies and patters
+## Architecture, technologies and patterns
 * ASP .NET CORE 8 Web Api
 * Clean Architecture
 * REST
